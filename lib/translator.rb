@@ -10,7 +10,7 @@ def load_library(file_path)
   }
   
   emoticons.each do |meaning, emoticon|
-    new_hash[:get_meaning]
+    new_hash[:get_meaning][emoticons]
   
 end
 
