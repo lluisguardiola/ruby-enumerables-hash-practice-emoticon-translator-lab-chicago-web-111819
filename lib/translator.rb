@@ -14,6 +14,7 @@ def load_library(file_path)
     new_hash[:get_emoticon][emoticon[0]] = emoticon[1]
   end
     
+  new_hash
   
 end
 
